@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FeedBackFairCodeChallenge</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_n">Email \n</string>
+    <string name="phone_number_n">Phone Number \n</string>
+</resources>
